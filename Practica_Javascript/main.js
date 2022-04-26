@@ -34,9 +34,7 @@ var game = (function () {
     player2.keyPress = false;
     player2.keyCode = null;
   }
-  /**
-   *
-   */
+  
 
   /**
    * Funcion para mover las barras por medio de las teclas
