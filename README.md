@@ -10,7 +10,7 @@ Preguntas:
 3-¿Cual es la diferencia entre funcion y metodo en javascript?
 4-¿Como se debugguea JS?
 5-¿Todos son objetos en JS?
-6-¿Se utiliza programacion orientada a obejetos en javascript?
+6-¿Se utiliza programacion orientada a objetos en javascript?
 7-¿Que es el dom en javascript?
 8-¿Para que se utiliza el QuerySelector en javascript?
 
